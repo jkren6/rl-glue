@@ -2,7 +2,6 @@
 RL-Glue Distribution
 =========================
 This project is licensed under the Apache 2 license. Check LICENSE-2.0.txt for more info. To paraphrase, you can use this code how you see fit.
-
 ----------------------------
 Documentation
 ----------------------------
