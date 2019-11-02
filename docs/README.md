@@ -3,7 +3,7 @@
 
 
 <center>
-![](/rl-glue.jpg)
+![](https://github.com/jkren6/rl-glue/blob/master/rl-glue.jpg)
 </center>
 
 * The interface is meant to provide only the basic functionality required to run a reinforcement learning experiment. The idea is to standardize the communication between three components common to every RL experiment:
